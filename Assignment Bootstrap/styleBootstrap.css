@@ -1,0 +1,23 @@
+.container{	
+	margin: auto;
+	}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h2{
+	font-family: serif;
+	font-weight: bold;
+	color : darkblue;
+}
+
+h3,#ctext{
+	font-family: georgia;
+	font-weight: bold;
+	color : black;
+	
+}
